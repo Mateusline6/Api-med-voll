@@ -1,6 +1,5 @@
-package med.voll.apimedvoll.paciente;
+package med.voll.apimedvoll.domain.paciente;
 
-import org.antlr.v4.runtime.misc.MultiMap;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

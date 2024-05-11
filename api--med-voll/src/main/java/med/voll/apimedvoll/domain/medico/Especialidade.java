@@ -1,4 +1,4 @@
-package med.voll.apimedvoll.medico;
+package med.voll.apimedvoll.domain.medico;
 
 public enum Especialidade {
 

@@ -1,4 +1,4 @@
-package med.voll.apimedvoll.paciente;
+package med.voll.apimedvoll.domain.paciente;
 
 public record DadosListagemPaciente(
 

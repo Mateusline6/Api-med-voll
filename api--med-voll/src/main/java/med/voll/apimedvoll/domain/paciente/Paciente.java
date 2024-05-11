@@ -1,8 +1,8 @@
-package med.voll.apimedvoll.paciente;
+package med.voll.apimedvoll.domain.paciente;
 
 import jakarta.persistence.*;
 import lombok.*;
-import med.voll.apimedvoll.endereco.Endereco;
+import med.voll.apimedvoll.domain.endereco.Endereco;
 
 
 @Table(name = "paciente")

@@ -1,6 +1,6 @@
-package med.voll.apimedvoll.paciente;
+package med.voll.apimedvoll.domain.paciente;
 
-import med.voll.apimedvoll.endereco.Endereco;
+import med.voll.apimedvoll.domain.endereco.Endereco;
 
 public record DadosDetalhamentoPaciente(
 
